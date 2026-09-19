@@ -4,6 +4,15 @@ Project simpel yang target nya google search karena simpel banget dan enak buat 
 ## Demo
 https://dprapandita.github.io/Tugas-Slicing-google-search/
 
+### Desktop
+![Google Search Desktop](./Assets/Desktop.png)
+
+### Tablet
+![Google Search Desktop](./Assets/Tablet.png)
+
+### Mobile
+![Google Search Mobile](./Assets/Mobile.png)
+
 ## Fitur
 
 - Layar responsive untuk mobile, tablet, desktop
