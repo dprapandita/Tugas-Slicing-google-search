@@ -15,3 +15,7 @@ https://dprapandita.github.io/Tugas-Slicing-google-search/
 - HTML5
 - CSS3 (plain)
 - JavaScript (Vanilla JS)
+
+## Kekurangan
+- Hanya di test di chrome browser
+- Tidak seperti google search yang asli
